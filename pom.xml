@@ -103,7 +103,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>ACADA Learning Snapshot Nexus Repository </name>
-	      <url>http://http://54.174.206.104:8081/repository/druid_webapp/</url>
+	      <url>http://54.174.206.104:8081/repository/druid_webapp/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
